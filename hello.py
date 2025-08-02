@@ -1,3 +1,3 @@
-print("Xin chao Git")
+print("Hello Git")
 import datetime
 print(datetime.datetime.now())
